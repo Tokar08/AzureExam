@@ -1,0 +1,6 @@
+@CarsAzureExam_HostAddress = http://localhost:5027
+
+GET {{CarsAzureExam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
